@@ -1,0 +1,17 @@
+D:\c# projects\msg000\msg000\bin\Debug\netcoreapp3.1\msg000.exe
+D:\c# projects\msg000\msg000\bin\Debug\netcoreapp3.1\msg000.deps.json
+D:\c# projects\msg000\msg000\bin\Debug\netcoreapp3.1\msg000.runtimeconfig.json
+D:\c# projects\msg000\msg000\bin\Debug\netcoreapp3.1\msg000.runtimeconfig.dev.json
+D:\c# projects\msg000\msg000\bin\Debug\netcoreapp3.1\msg000.dll
+D:\c# projects\msg000\msg000\bin\Debug\netcoreapp3.1\msg000.pdb
+D:\c# projects\msg000\msg000\obj\Debug\netcoreapp3.1\msg000.csproj.AssemblyReference.cache
+D:\c# projects\msg000\msg000\obj\Debug\netcoreapp3.1\msg000.Form1.resources
+D:\c# projects\msg000\msg000\obj\Debug\netcoreapp3.1\msg000.Form2.resources
+D:\c# projects\msg000\msg000\obj\Debug\netcoreapp3.1\msg000.csproj.GenerateResource.cache
+D:\c# projects\msg000\msg000\obj\Debug\netcoreapp3.1\msg000.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# projects\msg000\msg000\obj\Debug\netcoreapp3.1\msg000.AssemblyInfoInputs.cache
+D:\c# projects\msg000\msg000\obj\Debug\netcoreapp3.1\msg000.AssemblyInfo.cs
+D:\c# projects\msg000\msg000\obj\Debug\netcoreapp3.1\msg000.csproj.CoreCompileInputs.cache
+D:\c# projects\msg000\msg000\obj\Debug\netcoreapp3.1\msg000.dll
+D:\c# projects\msg000\msg000\obj\Debug\netcoreapp3.1\msg000.pdb
+D:\c# projects\msg000\msg000\obj\Debug\netcoreapp3.1\msg000.genruntimeconfig.cache
